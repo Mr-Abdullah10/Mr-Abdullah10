@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm Abdullah Ahsan! 👋
 
-<!--
-**Mr-Abdullah10/Mr-Abdullah10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 AI & Machine Learning Engineer
+I am a Computer Science Graduate from **COMSATS University** (CGPA 3.37), specializing in **AI Automation**, **Computer Vision**, and **Deep Learning**. I build autonomous agents and scalable ML pipelines to solve complex business problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Arsenal
+* **Languages:** Python, SQL, C++, Kotlin, JavaScript
+* **AI & ML:** TensorFlow, PyTorch, Scikit-learn, OpenCV, YOLOv8, NLP
+* **Data Science:** Pandas, NumPy, Matplotlib, Seaborn, Power BI
+* **Tools:** Android Studio, Firebase, Git/GitHub, n8n, Linux
+
+---
+
+### 🚀 Featured Projects
+* **🤖 Smart Defence Rover:** An autonomous IoT surveillance system achieving **95% accuracy** in human/hazard detection using YOLOv8 & OpenCV.
+* **📱 Lost & Found App:** A full-stack Android application with **MVVM architecture**, Firebase, and Cloudinary integration.
+* **📧 AI Email Classifier:** An end-to-end ML pipeline for spam detection with high accuracy using Scikit-learn.
+* **📉 Customer Churn Prediction:** An interactive Streamlit dashboard achieving an **AUC-ROC score of 0.89**.
+
+---
+
+### 🏆 Achievements
+* 🥇 **Hackathon Winner:** Secured top positions in university rapid prototyping challenges.
+* 🤖 **AI Researcher:** Actively researching Autonomous Agents and Generative AI workflows.
+
+---
+### 📊 GitHub Stats
+![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-Abdullah10&show_icons=true&theme=radical)
+
+---
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdullah-ahsan10/)
