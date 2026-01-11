@@ -1,7 +1,7 @@
 # Hi there, I'm Abdullah Ahsan! 👋
 
 ### 🎓 AI & Machine Learning Engineer
-I am a Computer Science Graduate from **COMSATS University** (CGPA 3.37), specializing in **AI Automation**, **Computer Vision**, and **Deep Learning**. I build autonomous agents and scalable ML pipelines to solve complex business problems.
+I am a Computer Science Graduate from **COMSATS University** (CGPA 3.38), specializing in **AI Automation**, **Computer Vision**, and **Deep Learning**. I build autonomous agents and scalable ML pipelines to solve complex business problems.
 
 ---
 
@@ -25,8 +25,5 @@ I am a Computer Science Graduate from **COMSATS University** (CGPA 3.37), specia
 * 🥇 **Hackathon Winner:** Secured top positions in university rapid prototyping challenges.
 * 🤖 **AI Researcher:** Actively researching Autonomous Agents and Generative AI workflows.
 
----
-### 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mr-Abdullah10&theme=radical)
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdullah-ahsan10/)
