@@ -27,7 +27,6 @@ I am a Computer Science Graduate from **COMSATS University** (CGPA 3.37), specia
 
 ---
 ### 📊 GitHub Stats
-![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-Abdullah10&show_icons=true&theme=radical)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mr-Abdullah10&theme=radical)
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdullah-ahsan10/)
